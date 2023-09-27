@@ -1,0 +1,14 @@
+{
+  "name": "resize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1462.0",
+    "jimp": "^0.22.10",
+    "qs": "^6.11.2"
+  }
+}
